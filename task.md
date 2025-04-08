@@ -56,7 +56,7 @@
 
 [Вот диаграмма контейнеров BionicPRO в модели C4:](https://code.s3.yandex.net/software-architect/BionicPRO_C4_model.drawio.xml?etag=bed779b4437d39ebd48ccc63f854c470)
 
-[](BionicPRO_C4_model.drawio_1731068361.png)
+![](BionicPRO_C4_model.drawio_1731068361.png)
 
 1. Проблемы и бизнес-задачи компании
 
